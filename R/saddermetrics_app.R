@@ -10,7 +10,7 @@ library(fmsb)
 library(GGally)
 
 # Wrap entire app in function per https://mastering-shiny.org/scaling-packaging.html#converting-an-existing-app
-runApp <- function(...){
+#runApp <- function(...){
   
 # Define UI for application that draws a histogram ----
 ui <- fluidPage(theme = shinytheme("darkly"),
@@ -724,4 +724,4 @@ server <- function(input, output) {
 # Run the application 
 shinyApp(ui = ui, server = server)
 
-}
+#}
