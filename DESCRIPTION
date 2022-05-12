@@ -1,0 +1,16 @@
+Package: saddermetrics
+Title: SADDERmetrics Coεmeta Web App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Daniel", 
+           family = "McNichol",
+           email = "daniel@coemeta.com", 
+           role = c("aut", "cre"))
+Description: This is a super early prototype experimenting with the idea of advanced analytics for social media. Kinda like Sabermetrics for twitter. So obviously it's called #saddermetrics. Maybe it stands for Social Analytics Depicting Deeper Empirical Reality or something. But probably not.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+URL: https://dnlmc.shinyapps.io/saddermetrics/, https://github.com/coemeta/saddermetrics
+BugReports: https://github.com/coemeta/saddermetrics/issues
